@@ -1,5 +1,4 @@
-Manasvi Daga - Portfolio Website
-https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=1200&q=80
+##Manasvi Daga - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science & Engineering (AI) student.
 
@@ -11,13 +10,6 @@ I'm a 2nd Year BTech student at Amrita Vishwa Vidyapeetham, specializing in Arti
 
 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript
-
-Styling: Custom CSS with CSS Variables
-
-Icons: Font Awesome 6.4.0
-
-Fonts: Google Fonts (Playfair Display, Inter)
-
 Deployment: Netlify
 
 🎨 Features
